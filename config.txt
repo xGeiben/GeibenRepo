@@ -1,0 +1,3 @@
+git config --global user.name "Geiben"
+git config --global user.email "Geiben_varela@hotmail.com"
+git config --global color.ui true
